@@ -12,6 +12,7 @@ namespace PS.DATE.Command
         public void Add<T>(T entity) where T : class
         {
             throw new NotImplementedException();
+            //baeofjhsarhg;orasng
         }
 
         public void Delete<T>(T entity) where T : class
