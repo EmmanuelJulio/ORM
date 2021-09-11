@@ -15,7 +15,7 @@ namespace PS.DATE
         {
             protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             {
-                optionsBuilder.UseSqlServer("Data Source=DESKTOP-LDA7PAA;Initial Catalog=Cine;Integrated Security=True");
+                optionsBuilder.UseSqlServer("Data Source=DESKTOP-LDA7PAA;Initial Catalog=CineCapas;Integrated Security=True");
                 base.OnConfiguring(optionsBuilder);
             }
 
@@ -125,6 +125,7 @@ namespace PS.DATE
             public DbSet<Funciones> Funciones { get; set; }
             public DbSet<Peliculas> Peliculas { get; set; }
             public DbSet<Tickets> Tickets { get; set; }
+            public DbSet<Salas> Salas { get; set; }
 
         }
     }

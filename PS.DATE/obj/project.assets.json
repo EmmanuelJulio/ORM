@@ -1523,6 +1523,10 @@
       "PS.DOMAIN/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.9"
+        },
         "compile": {
           "bin/placeholder/PS.DOMAIN.dll": {}
         },

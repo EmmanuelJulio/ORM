@@ -1,0 +1,17 @@
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\bin\Debug\net5.0\PS.APLICATION.deps.json
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\bin\Debug\net5.0\PS.APLICATION.dll
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\bin\Debug\net5.0\ref\PS.APLICATION.dll
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\bin\Debug\net5.0\PS.APLICATION.pdb
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\bin\Debug\net5.0\PS.DATE.dll
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\bin\Debug\net5.0\PS.DOMAIN.dll
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\bin\Debug\net5.0\PS.DATE.pdb
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\bin\Debug\net5.0\PS.DOMAIN.pdb
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\obj\Debug\net5.0\PS.APLICATION.csproj.AssemblyReference.cache
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\obj\Debug\net5.0\PS.APLICATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\obj\Debug\net5.0\PS.APLICATION.AssemblyInfoInputs.cache
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\obj\Debug\net5.0\PS.APLICATION.AssemblyInfo.cs
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\obj\Debug\net5.0\PS.APLICATION.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\obj\Debug\net5.0\PS.APLICATION.csproj.CopyComplete
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\obj\Debug\net5.0\PS.APLICATION.dll
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\obj\Debug\net5.0\ref\PS.APLICATION.dll
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.APLICATION\obj\Debug\net5.0\PS.APLICATION.pdb
