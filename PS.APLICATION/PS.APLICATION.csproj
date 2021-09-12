@@ -5,12 +5,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PS.DATE\PS.DATE.csproj" />
-    <ProjectReference Include="..\PS.DOMAIN\PS.DOMAIN.csproj" />
+    <Compile Remove="Services\**" />
+    <EmbeddedResource Remove="Services\**" />
+    <None Remove="Services\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Services\" />
+    <ProjectReference Include="..\PS.DATE\PS.DATE.csproj" />
+    <ProjectReference Include="..\PS.DOMAIN\PS.DOMAIN.csproj" />
   </ItemGroup>
 
 </Project>

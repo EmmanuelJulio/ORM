@@ -1,0 +1,15 @@
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.DOMAIN\bin\Debug\net5.0\PS.DOMAIN.deps.json
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.DOMAIN\bin\Debug\net5.0\PS.DOMAIN.dll
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.DOMAIN\bin\Debug\net5.0\ref\PS.DOMAIN.dll
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.DOMAIN\bin\Debug\net5.0\PS.DOMAIN.pdb
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.DOMAIN\obj\Debug\net5.0\PS.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.DOMAIN\obj\Debug\net5.0\PS.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.DOMAIN\obj\Debug\net5.0\PS.DOMAIN.AssemblyInfo.cs
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.DOMAIN\obj\Debug\net5.0\PS.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.DOMAIN\obj\Debug\net5.0\PS.DOMAIN.dll
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.DOMAIN\obj\Debug\net5.0\ref\PS.DOMAIN.dll
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.DOMAIN\obj\Debug\net5.0\PS.DOMAIN.pdb
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.DOMAIN\obj\Debug\net5.0\PS.DOMAIN.csproj.AssemblyReference.cache
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.DOMAIN\bin\Debug\net5.0\PS.DOMAIN.runtimeconfig.json
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.DOMAIN\bin\Debug\net5.0\PS.DOMAIN.runtimeconfig.dev.json
+C:\Users\Emmanuel\source\repos\Cine-capas-emmanuelJulio\PS.DOMAIN\obj\Debug\net5.0\PS.DOMAIN.genruntimeconfig.cache

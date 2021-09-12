@@ -9,6 +9,11 @@ namespace PS.DATE.Command
 {
     public class GenericRepository : IGenericsRepository
     {
+        private readonly ApplicationDbContext context;
+        public GenericRepository (ApplicationDbContext dbcontext)
+        {
+            context = dbcontext;
+        }
         public void Add<T>(T entity) where T : class
         {
             throw new NotImplementedException();
